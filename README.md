@@ -6,3 +6,4 @@
 2. Book module
 3. Order module
 4. Cart module
+5. CartItem module
